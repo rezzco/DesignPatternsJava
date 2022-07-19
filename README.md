@@ -1,6 +1,6 @@
 # DesignPatternDemo
 
-### I am learning and practicing design patterns here. hopefully it can be of help to others. 
+### I am learning and practicing design patterns here. hopefully it can be of help to others.
 
 - Memento : It is designed for problems that need undo capability. like undo button on microsoft products.
 for this outcome we need a design as follows. 
